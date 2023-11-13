@@ -374,11 +374,11 @@ footer button.show{
 }
 
 .buttons button.restart:hover{
-    background: #0263ca;
+    background: #FFDEAD;
 }
 
 .buttons button.quit{
-    color: #007bff;
+    color: #FFDEAD;
     background: #fff;
 }
 
