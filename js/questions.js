@@ -55,6 +55,61 @@ let questions = [
       "13"
     ]
   },
+   {
+    numb: 6,
+    question: "Qual o maior planeta do Sistema Sola?",
+    answer: "Júpiter",
+    options: [
+      "Júpiter",
+      "Terra",
+      "Marte",
+      "Vênus"
+    ]
+  },
+  {
+    numb: 7,
+    question: "Qual o menor planeta do Sistema Solar?",
+    answer: "Mercúrio",
+    options: [
+      "Netuno",
+      "Urano",
+      "Saturno",
+      "Mercúrio"
+    ]
+  },
+  {
+    numb: 8,
+    question: "Em que ano ocorreu a Revolução Francesa?",
+    answer: "1789",
+    options: [
+      "1800",
+      "1750",
+      "1789",
+      "1785"
+    ]
+  },
+  {
+    numb: 9,
+    question: "Em que ano se iniciou a Revolução Industrial?",
+    answer: "1760",
+    options: [
+      "1760",
+      "1720",
+      "1799",
+      "1713"
+    ]
+  },
+  {
+    numb: 10,
+    question: "Quantas libertadores tem o Flamengo?",
+    answer: "3",
+    options: [
+      "0",
+      "2",
+      "4",
+      "3"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
