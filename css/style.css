@@ -168,8 +168,8 @@ body{
     border-radius: 5px;
     line-height: 30px;
     text-align: center;
-    background: #343a40;
-    border: 1px solid #343a40;
+    background: #000000;
+    border: 1px solid #000000;
     user-select: none;
 }
 
