@@ -168,8 +168,8 @@ body{
     border-radius: 5px;
     line-height: 30px;
     text-align: center;
-    background: #fff8dc;
-    border: 1px solid #ffffff;
+    background: #343a40;
+    border: 1px solid #343a40;
     user-select: none;
 }
 
@@ -178,7 +178,7 @@ body{
     bottom: 0px;
     left: 0px;
     height: 3px;
-    background: #007bff;
+    background: #000000;
 }
 
 section{
